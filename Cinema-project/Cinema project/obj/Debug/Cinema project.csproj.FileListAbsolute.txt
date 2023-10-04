@@ -5,3 +5,10 @@ C:\Users\aq231688\Source\Repos\Cinema-project\Cinema project\bin\Debug\Cinema pr
 C:\Users\aq231688\Source\Repos\Cinema-project\Cinema project\bin\Debug\Cinema project.pdb
 C:\Users\aq231688\Source\Repos\Cinema-project\Cinema project\obj\Debug\Cinema project.exe
 C:\Users\aq231688\Source\Repos\Cinema-project\Cinema project\obj\Debug\Cinema project.pdb
+C:\Users\Liam\Source\Repos\Cinema_project04.10\Cinema-project\Cinema project\bin\Debug\Cinema project.exe.config
+C:\Users\Liam\Source\Repos\Cinema_project04.10\Cinema-project\Cinema project\bin\Debug\Cinema project.exe
+C:\Users\Liam\Source\Repos\Cinema_project04.10\Cinema-project\Cinema project\bin\Debug\Cinema project.pdb
+C:\Users\Liam\Source\Repos\Cinema_project04.10\Cinema-project\Cinema project\obj\Debug\Cinema project.csproj.AssemblyReference.cache
+C:\Users\Liam\Source\Repos\Cinema_project04.10\Cinema-project\Cinema project\obj\Debug\Cinema project.csproj.CoreCompileInputs.cache
+C:\Users\Liam\Source\Repos\Cinema_project04.10\Cinema-project\Cinema project\obj\Debug\Cinema project.exe
+C:\Users\Liam\Source\Repos\Cinema_project04.10\Cinema-project\Cinema project\obj\Debug\Cinema project.pdb

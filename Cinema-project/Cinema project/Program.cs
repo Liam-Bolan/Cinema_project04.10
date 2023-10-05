@@ -98,6 +98,7 @@ namespace _21._09._23_strings_2
                Console.WriteLine("Invalid amount of People!");
             }
             if (people >= 1 && people <= 6) 
+            //booking date
             {
                 Console.WriteLine("Okay, What date would you like to book it? (DD/MM/YYYY)");
             }
